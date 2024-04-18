@@ -7,6 +7,6 @@ This voting app was part of a university project. The app accepts a 12 digit num
 Under construction
 
 
-# Disclaimer
+# License
 
-There is no guarantee that this application will work perfectly. It has been published in the spirit of benefiting the GitHub community.
+This software is subject to a license, please refer to the license file for more information.
